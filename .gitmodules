@@ -1,3 +1,6 @@
 [submodule "plugins/node-build"]
 	path = plugins/node-build
 	url = https://github.com/nodenv/node-build.git
+[submodule "plugins/node-package-rehash"]
+	path = plugins/node-package-rehash
+	url = https://github.com/nodenv/nodenv-package-rehash.git
