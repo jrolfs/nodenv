@@ -1,5 +1,6 @@
 tern
 gulp
+grunt-cli
 eslint
 jsonlint
 sass-lint
