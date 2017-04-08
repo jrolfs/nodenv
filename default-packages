@@ -3,6 +3,7 @@ tern
 gulp-cli
 grunt-cli
 eslint
+prettier-eslint-cli
 jsonlint
 sass-lint
 coffeelint
