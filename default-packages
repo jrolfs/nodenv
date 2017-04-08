@@ -1,6 +1,6 @@
 npm-which
 tern
-gulp
+gulp-cli
 grunt-cli
 eslint
 jsonlint
