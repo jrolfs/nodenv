@@ -7,3 +7,6 @@
 [submodule "plugins/nodenv-default-packages"]
 	path = plugins/nodenv-default-packages
 	url = git@github.com:nodenv/nodenv-default-packages.git
+[submodule "plugins/nodenv-npm-migrate"]
+	path = plugins/nodenv-npm-migrate
+	url = git@github.com:nodenv/nodenv-npm-migrate.git
