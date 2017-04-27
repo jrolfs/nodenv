@@ -10,3 +10,6 @@
 [submodule "plugins/nodenv-npm-migrate"]
 	path = plugins/nodenv-npm-migrate
 	url = git@github.com:nodenv/nodenv-npm-migrate.git
+[submodule "plugins/nodenv-each"]
+	path = plugins/nodenv-each
+	url = https://github.com/nodenv/nodenv-each.git
