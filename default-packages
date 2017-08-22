@@ -1,10 +1,15 @@
+npmrc
 npm-which
+
 tern
+
 gulp-cli
 grunt-cli
+
 eslint
 prettier-eslint-cli
 jsonlint
 sass-lint
-coffeelint
-npmrc
+
+alfred-emoj
+alfred-npms
