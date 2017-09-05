@@ -9,9 +9,10 @@ gulp-cli
 grunt-cli
 
 eslint
-prettier-eslint-cli
 jsonlint
 sass-lint
+
+prettier-eslint
 
 alfred-emoj
 alfred-npms
