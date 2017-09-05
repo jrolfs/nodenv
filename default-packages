@@ -12,6 +12,7 @@ eslint
 jsonlint
 sass-lint
 
+prettier
 prettier-eslint
 
 alfred-emoj
