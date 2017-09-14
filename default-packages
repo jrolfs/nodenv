@@ -13,7 +13,7 @@ jsonlint
 sass-lint
 
 prettier
-prettier-eslint
+prettier-eslint-cli
 
 alfred-emoj
 alfred-npms
