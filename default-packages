@@ -17,6 +17,8 @@ sass-lint
 prettier
 prettier-eslint-cli
 
+jscodeshift
+
 alfred-emoj
 alfred-kaomoji
 alfred-npms
