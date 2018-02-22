@@ -19,6 +19,7 @@ prettier-eslint-cli
 
 jscodeshift
 
+alfred-updater
 alfred-emoj
 alfred-kaomoji
 alfred-npms
