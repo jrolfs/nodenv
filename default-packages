@@ -13,6 +13,7 @@ gulp-cli
 grunt-cli
 
 eslint
+eslint_d
 jsonlint
 sass-lint
 
