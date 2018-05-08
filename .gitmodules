@@ -13,3 +13,6 @@
 [submodule "plugins/nodenv-each"]
 	path = plugins/nodenv-each
 	url = https://github.com/nodenv/nodenv-each.git
+[submodule "plugins/nodenv-nvmrc"]
+	path = plugins/nodenv-nvmrc
+	url = git@github.com:ouchxp/nodenv-nvmrc.git
