@@ -11,19 +11,7 @@ now
 elk-cli
 
 tern
-
-gulp-cli
-grunt-cli
-
-eslint
 eslint_d
-jsonlint
-sass-lint
-
-prettier
-prettier-eslint-cli
-
-jscodeshift
 
 alfred-awe
 alfred-caniuse
