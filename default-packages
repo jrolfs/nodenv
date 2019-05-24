@@ -1,17 +1,17 @@
+yarn
+
 do-not-disturb-cli
 hostile
+now
 tldr
 
 npmrc
 npm-which
+neovim
 
-yarn
-
-now
-elk-cli
-
-tern
 eslint_d
+prettier
+prettier-eslint-cli
 
 alfred-awe
 alfred-caniuse
